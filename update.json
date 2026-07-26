@@ -1,0 +1,53 @@
+{
+  "latestBuild": 24,
+  "minSupportedBuild": 22,
+  "versionName": "1.0.13",
+  "title_i18n": {
+    "it": "Aggiornamento disponibile",
+    "en": "Update available",
+    "es": "Actualización disponible",
+    "fr": "Mise à jour disponible",
+    "de": "Update verfügbar"
+  },
+  "message_i18n": {
+    "it": "È disponibile una nuova versione di Tennis Ascent.",
+    "en": "A new version of Tennis Ascent is available.",
+    "es": "Hay una nueva versión de Tennis Ascent disponible.",
+    "fr": "Une nouvelle version de Tennis Ascent est disponible.",
+    "de": "Eine neue Version von Tennis Ascent ist verfügbar."
+  },
+  "changelog_i18n": {
+    "it": [
+      "Rilevamento e salvataggio della lingua migliorati",
+      "Allenamenti con un consumo di energia ridotto",
+      "Più avversari internazionali, inclusa l'Ucraina",
+      "Avvisi di aggiornamento corretti e maggiore stabilità"
+    ],
+    "en": [
+      "Improved language detection and persistence",
+      "Reduced training energy costs",
+      "More international opponents, including Ukraine",
+      "Fixed update notices and improved stability"
+    ],
+    "es": [
+      "Mejor detección y guardado del idioma",
+      "Menor consumo de energía al entrenar",
+      "Más rivales internacionales, incluida Ucrania",
+      "Avisos de actualización corregidos y mayor estabilidad"
+    ],
+    "fr": [
+      "Détection et mémorisation de la langue améliorées",
+      "Coût énergétique des entraînements réduit",
+      "Davantage d'adversaires internationaux, dont l'Ukraine",
+      "Notifications de mise à jour corrigées et stabilité améliorée"
+    ],
+    "de": [
+      "Verbesserte Spracherkennung und Spracheinstellung",
+      "Geringerer Energieverbrauch beim Training",
+      "Mehr internationale Gegner, einschließlich der Ukraine",
+      "Korrigierte Update-Hinweise und höhere Stabilität"
+    ]
+  },
+  "storeUrl": "market://details?id=com.everlith.tennisascent",
+  "webUrl": "https://play.google.com/store/apps/details?id=com.everlith.tennisascent"
+}
